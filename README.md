@@ -54,7 +54,7 @@ or
 
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/image_3.png)
 
-Extracting secret data
+# Extracting secret data
  
 ```
 cat decoded_text.txt
