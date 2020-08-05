@@ -8,16 +8,17 @@ Steganography is a method of hiding secret data by embedding it into an audio, v
 ## Secret Data 
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/image_1.png)
 
-## Encoding
+# Encoding
 ```
 ./a.out -e <image_file> <secret_text_file> <desination_image_name>
 ```
 -e is used for encoding
+
 -d is used for decoding 
 
 for encoding we need to pass BMP image and secret text file and destination image file which is optional 
 ```
-./a.out -e beautiful.bmp secret.txt new.bp
+./a.out -e beautiful.bmp secret.txt new.bmp
 ```
 
 or 
@@ -27,3 +28,18 @@ or
 if destination image name is not specified stego_image.bmp
 
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/imag_2.png)
+
+# Decoding 
+For decoding 
+
+```
+./a.out -d stego_image.bmp decoded_text.txt
+```
+
+or 
+
+```
+./a.out -d stego_image.bmp 
+
+```
+![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/image_3.png)
