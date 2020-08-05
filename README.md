@@ -33,8 +33,9 @@ if destination image name is not specified stego_image.bmp
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/imag_2.png)
 
 # Decoding 
-Encoded Image
+
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/stego_image.bmp)
+*Encoded Image*
 Our eye cannot see the difference
 For decoding 
 ```
