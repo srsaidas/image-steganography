@@ -28,7 +28,7 @@ or
 ```
 ./a.out -e beautiful.bmp secret.txt 
 ```
-if destination image name is not specified stego_image.bmp
+if destination image name is not specified stego_image.bmp is created 
 
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/imag_2.png)
 
