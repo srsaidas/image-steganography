@@ -6,6 +6,9 @@ Steganography is a method of hiding secret data by embedding it into an audio, v
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/beautiful.bmp)
 
 ## Secret Data 
+```
+cat secret.txt
+```
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/image_1.png)
 
 # Encoding
@@ -49,5 +52,8 @@ or
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/image_3.png)
 
 showing output 
-
+ 
+```
+cat decoded_text.txt
+```
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/imag4.png)
