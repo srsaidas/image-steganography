@@ -5,7 +5,7 @@ Steganography is a method of hiding secret data by embedding it into an audio, v
 ## Orginal image used for encoding secret data 
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/beautiful.bmp)
 
-## Secret Data 
+## View Secret Data 
 ```
 cat secret.txt
 ```
@@ -54,7 +54,7 @@ or
 
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/image_3.png)
 
-# Extracting secret data
+# View Extracted secret data
  
 ```
 cat decoded_text.txt
