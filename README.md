@@ -60,3 +60,9 @@ or
 cat decoded_text.txt
 ```
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/imag4.png)
+
+
+
+~Thanks
+
+[Saidas S R!](https://www.linkedin.com/in/saidassr/)
