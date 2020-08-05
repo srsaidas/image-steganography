@@ -35,8 +35,7 @@ if destination image name is not specified stego_image.bmp is created
 # Decoding 
 
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/stego_image.bmp)
-*Encoded Image*
-Our eye cannot see the difference
+*Encoded Image*, our eye cannot see the difference
 For decoding 
 ```
 ./a.out -d <encoded_image> <decoded_text>
