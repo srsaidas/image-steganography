@@ -31,7 +31,10 @@ if destination image name is not specified stego_image.bmp
 
 # Decoding 
 For decoding 
-
+```
+./a.out -d <encoded_image> <decoded_text>
+```
+decoded text is optional if not specified decoded.txt will created
 ```
 ./a.out -d stego_image.bmp decoded_text.txt
 ```
@@ -42,4 +45,9 @@ or
 ./a.out -d stego_image.bmp 
 
 ```
+
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/image_3.png)
+
+showing output 
+
+![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/imag4.png)
