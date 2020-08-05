@@ -33,6 +33,9 @@ if destination image name is not specified stego_image.bmp
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/imag_2.png)
 
 # Decoding 
+Encoded Image
+![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/stego_image.bmp)
+Our eye cannot see the difference
 For decoding 
 ```
 ./a.out -d <encoded_image> <decoded_text>
@@ -51,7 +54,7 @@ or
 
 ![alt text](https://raw.githubusercontent.com/srsaidas/image-steganography/master/image/image_3.png)
 
-showing output 
+Extracting secret data
  
 ```
 cat decoded_text.txt
